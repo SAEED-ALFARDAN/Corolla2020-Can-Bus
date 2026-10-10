@@ -10,7 +10,6 @@ only what I have captured so far, and marks what is still being re-verified.
 - My own vehicle, tested while parked, on the body CAN bus.
 - The tap is passive: it listens to bus traffic.
 - Diagnostic (UDS) scanning was limited to identifying ECU addresses.
-  [Confirm: no actuator commands were sent to braking, steering, or airbag ECUs.]
 - Everything here requires physical access to the bus.
 - Command sequences are intentionally not published.
 
